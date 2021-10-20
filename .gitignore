@@ -1,6 +1,7 @@
 # Ignore everything except our mod project
 /*
 !.gitignore
+!README.md
 
 # Editor/Mods
 !Editor/
