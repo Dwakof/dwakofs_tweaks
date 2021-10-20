@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="5b81424e-b08e-4b9a-b699-75c8bb628159" type="23" />
+            <attribute id="Name" value="dwakof" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="a61e6bdf-7335-48f0-a465-4d8fb9955799" type="23" />
+        </node>
+    </region>
+</save>

@@ -1,0 +1,20 @@
+# Ignore everything except our mod project
+/*
+!.gitignore
+
+# Editor/Mods
+!Editor/
+Editor/*
+!Editor/Mods/
+Editor/Mods/*
+!Editor/Mods/dwakof_5b81424e-b08e-4b9a-b699-75c8bb628159/
+
+# Mods
+!Mods/
+Mods/*
+!Mods/dwakof_5b81424e-b08e-4b9a-b699-75c8bb628159/
+
+# Projects
+!Projects/
+Projects/*
+!Projects/dwakof_5b81424e-b08e-4b9a-b699-75c8bb628159/
