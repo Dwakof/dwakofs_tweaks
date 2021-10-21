@@ -1,5 +1,12 @@
-# Dwakofs Tweaks
+# Dwakof's Tweaks
 Divinity: Original Sin 2 mod with tweaks we enjoy.
+
+<details>
+  <summary>List of changes</summary>
+  
+  - Reduced AP requirement for Raining Blood to 1
+  - Increased cooldown of Raining Blood to 6 turns
+</details>
 
 ## Env setup
 
